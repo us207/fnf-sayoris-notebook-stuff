@@ -1,0 +1,35 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=165.00
+Tracks=1
+ProjectName=green tea cupcakes inst 11
+VoiceDir=VOICES\Just Monika
+OutFile=green tea cupcakes inst 11.wav
+CacheDir=green tea cupcakes inst 11.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+Mode2=True
+[#0000]
+Length=960
+Lyric=a
+NoteNum=60
+Intensity=100
+Modulation=0
+[#0001]
+Length=1440
+Lyric=a
+NoteNum=59
+Intensity=100
+Modulation=0
+PBS=-185;30
+PBW=385
+[#0002]
+Length=1440
+Lyric=a
+NoteNum=57
+Intensity=100
+Modulation=0
+PBS=-40
+PBW=80
+[#TRACKEND]
