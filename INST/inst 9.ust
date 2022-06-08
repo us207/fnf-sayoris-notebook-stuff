@@ -1,0 +1,27 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=200.00
+Tracks=1
+ProjectName=inst 9
+VoiceDir=VOICES\Stress
+OutFile=inst 9.wav
+CacheDir=inst 9.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+Mode2=True
+[#0000]
+Length=1920
+Lyric=a
+NoteNum=48
+Intensity=100
+Modulation=0
+[#0001]
+Length=1920
+Lyric=a
+NoteNum=46
+Intensity=100
+Modulation=0
+PBS=-45
+PBW=89
+[#TRACKEND]
